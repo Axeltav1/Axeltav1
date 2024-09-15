@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently looking for an internship
 - 🌱 I’m currently learning C# and JS
-- 📫 How to reach me: axeltavernard890@gmail.com
 - 😄 Pronouns: he/him
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axeltav1&show_icons=true&theme=transparent)
