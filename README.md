@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning C# and JS
 - 😄 Pronouns: he/him
 
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axeltav1&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axeltav1&layout=compact&icons=true&theme=transparent)](https://github.com/Axeltav1/github-readme-stats)
 
@@ -26,6 +28,8 @@
   <a href="https://www.linkedin.com/in/axel-tavernard-54a57b247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<br><br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Axeltav1/Axeltav1/output/github-contribution-grid-snake-dark.svg">
