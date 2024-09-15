@@ -1,8 +1,11 @@
 ## Hi there 👋 I'm Axel Tavernard
 
-- 🔭 I’m currently looking for an internship
-- 🌱 I’m currently learning C# and JS
-- 😄 Pronouns: he/him
+👋Hi there!
+
+I'm Axel Tavernard, a newbie programmer who is currently studying software development at the academic institution ISTEC, at Lisbon.<br>
+My passion is programming, and learning new things everyday, that currently led me to where I am right now.<br>
+I'm currently studying the programming languages C#, Java Script and PHP. And Database management systems such as MySQL.
+
 
 <br>
 
