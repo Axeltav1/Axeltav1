@@ -1,5 +1,3 @@
-## Hi there 👋 I'm Axel Tavernard
-
 👋Hi there!
 
 I'm Axel Tavernard, a newbie programmer who is currently studying software development at the academic institution ISTEC, at Lisbon.<br>
