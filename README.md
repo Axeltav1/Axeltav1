@@ -15,7 +15,7 @@ I'm currently studying the programming languages C#, Java Script and PHP. And Da
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gif-perfil" src="https://tenor.com/view/lain-serial-experiments-lain-pixel-art-gif-24432890">
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGw1OXJ4eGgwbGM2cjBwdHIxbGkwdWt6MWd3amdzaXp0MDlrOWN5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46C5mc4dlmPZqZTq/giphy.gif"  />
 </div>
   
   ##
